@@ -1,5 +1,4 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20&fontSize=90)
 <br>
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Dev-KYB)](https://github.com/Dev-KYB)
 <br>
